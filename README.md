@@ -23,6 +23,7 @@ Fitnesscentret tilbyder **medlemskaber**, **holdtræning**, og har **instruktør
 2. Definér **attributter** for hver entitet.
 3. Identificér **relationer og multiplicitet** mellem entiteterne.
 4. Tegn et **ER-diagram** (håndtegnet eller ved hjælp af et værktøj som dbdiagram.io, Lucidchart eller MySQL Workbench).
+5. Kommentér gerne jeres ER model - hvilke overvejelser har I gjort undervejs, er der noget særligt man skal hæfte sig ved i jeres model etc.
 
 ---
 
@@ -54,22 +55,14 @@ TEAM (team_id PK, description VARCHAR(50), max_participants INT, instructor_id F
 ---
 
 ## **📌 Aflevering**
-### **📁 Du skal aflevere:**
-1. **ER-diagram** (håndtegnet eller digitalt) med evt. overvejelser og kommentarer til jeres design.
+### **📁 I skal aflevere:**
+1. **ER-diagram** (håndtegnet eller digitalt) med evt. kommentarer til jeres design.
 2. **Dokumentation for normalisering** (fra 1NF til 3NF, inkl. forklaringer og tabeller).
 3. **Den relationelle model** (relationer med PK, FK, datatyper og unikke attributter).
    
-
+- I må arbejde sammen **gruppevis** (max. 4 personer, men gerne mindre grupper)
+- Deadline for aflevering: søndag 16. marts kl 22.00 (**github-link** og **navne på gruppemedlemmer**, som sendes på mail til tm@cphbusiness.dk)
 ---
-
-## **📌 Vurderingskriterier**
-| **Kriterie** | **Vurdering** |
-|-------------|--------------|
-| ER-model | Identificering af entiteter, attributter og relationer |
-| Normalisering | Rigtig anvendelse af 1NF, 2NF og 3NF |
-| Relationel model | Korrekt mapping af entiteter til relationer |
-| Dokumentation | Klar og præcis beskrivelse af processen |
-
----
+   
 
 🎯 **God fornøjelse med opgaven!** 🚀
