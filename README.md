@@ -35,14 +35,15 @@ Når I har udarbejdet **ER-modellen**, skal I kvalitetstjekke modellen (for at u
 2. **2NF:** Fjern **partielle funktionelle afhængigheder** (sørg for, at ikke-nøgle attributter afhænger af hele primærnøglen).
 3. **3NF:** Fjern **transitive afhængigheder** (sørg for, at alle ikke-nøgle attributter kun afhænger af primærnøglen).
 
-🔹 **Dokumentér hver normaliseringstrin med en kort forklaring og en tabel, der viser ændringerne.** Hvis jeres ER modellen allerede er normaliseret, dvs. inden anvendelse af normalformerne), så giv et eksempel et design, hvor 2. og 3. normalform ville være brudt.
+🔹 **Dokumentér hver normaliseringstrin med en kort forklaring og en tabel, der viser ændringerne.** 
+🔹 Hvis jeres ER model allerede er normaliseret inden anvendelse af normalformerne, så giv et eksempel på et design, hvor 2. og 3. normalform ville være brudt.
 
 ---
 
 ## **📌 3️⃣ Mapping til Relationel Model**
 Når jeres **ER-model er normaliseret**, skal du **mappe den til en relationel model**.
 
-📌 **Din opgave:**
+📌 **Opgaven:**
 1. Definér **relationer** (tabeller) med **primærnøgler (PK) og fremmednøgler (FK)**.
 2.  Dokumentér resultatet som en **relationsmodel**, f.eks.:
 
