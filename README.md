@@ -41,7 +41,7 @@ Når I har udarbejdet **ER-modellen**, skal I kvalitetstjekke modellen (for at u
 ---
 
 ## **📌 3️⃣ Mapping til Relationel Model**
-Når jeres **ER-model er normaliseret**, skal du **mappe den til en relationel model**.
+Når jeres **ER-model er normaliseret**, skal I **mappe den til en relationel model**.
 
 📌 **Opgaven:**
 1. Definér **relationer** (tabeller) med **primærnøgler (PK) og fremmednøgler (FK)**.
